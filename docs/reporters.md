@@ -127,3 +127,4 @@ Example:
 
 **The final mutation score is 78.70%**  
 *Coverage Thresholds: high: 90 low: 60 break: 60*
+dotnet stryker --reporter "dashboard"
